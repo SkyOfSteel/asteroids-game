@@ -11,9 +11,13 @@ The program is designed to run in a [uv](https://docs.astral.sh/uv/) environment
 # Controls
 
 *W* - move forward.
+
 *S* - move backward.
+
 *A* - rotate left.
+
 *S* - rotate right.
+
 *Spacebar* - shoot.
 
 # To-Do List and Ideas:
